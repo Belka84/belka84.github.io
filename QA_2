@@ -60,16 +60,6 @@ let item_7_type = String(item_7);
 //Вывести в консоль тип данных item_7 в виде ——  “item_7 == ”  item_7,  “item_7_type == ”  item_7_type ——
 console.log("item_7 ==", item_7, "item_7_type ——", typeof item_7);
 
-//ЧТО ВЫВОДИТСЯ В КОНСОЛЬ
-5
-3
-8
-Yolochka
-8Yolochka
-NaN
-item_6 == 15 item_6_type —— number
-item_7 == 15 item_7_type —— string
-
 ВТОРОЕ ЗАДАНИЕ
 // Создать переменную “age_1” и присвоить ей значение 10
 //Создать переменную “age_2” и присвоить ей значение 18
@@ -98,18 +88,3 @@ if (age_1 < age_2) {
 } else {
     console.log("Technical work")
 }
-
-//ЧТО ВЫВОДИТСЯ В КОНСОЛЬ
-kseniasoloveva@MacBook-Pro-Soloveva QA_29_free % node "/Users/kseniasoloveva/Des
-ktop/QA_29_free/QA_test_4.js"
-You don’ t have access cause your age is 10. It’s less then 18
-kseniasoloveva@MacBook-Pro-Soloveva QA_29_free % node "/Users/kseniasoloveva/Des
-ktop/QA_29_free/QA_test_4.js"
-Welcome !
-kseniasoloveva@MacBook-Pro-Soloveva QA_29_free % node "/Users/kseniasoloveva/Des
-ktop/QA_29_free/QA_test_4.js"
-Keep calm and look Culture channel
-kseniasoloveva@MacBook-Pro-Soloveva QA_29_free % node "/Users/kseniasoloveva/Des
-ktop/QA_29_free/QA_test_4.js"
-Technical work
-kseniasoloveva@MacBook-Pro-Soloveva QA_29_free % 
